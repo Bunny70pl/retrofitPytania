@@ -1,0 +1,25 @@
+{
+    "pytania":[
+        {
+            "tresc": "Prezydentem polski byl",
+            "odpa": "Wilkowyje",
+            "odpb": "Gniezno",
+            "odpc": "Kowno",
+            "poprawna": 1
+        },
+        {
+            "tresc": "Chrzest",
+            "odpa": "2015",
+            "odpb": "966",
+            "odpc": "2138",
+            "poprawna": 1
+        },
+        {
+            "tresc": "2+2*2",
+            "odpa": "4",
+            "odpb": "6",
+            "odpc": "16",
+            "poprawna": 1
+        }
+    ]
+}
